@@ -1,0 +1,5 @@
+Superman 200 Laser 
+Lex_Luther 210 kryptonite
+20 30
+5 50
+20 30

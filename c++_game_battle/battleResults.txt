@@ -1,0 +1,22 @@
+Superman (200 hp) will battle Lex_Luther (210 hp)
+Superman attacks!  Lex_Luther takes 59 damage! New hp = 151
+Lex_Luther uses kryptonite! Superman takes 30 damage! New hp = 170
+Superman attacks!  Lex_Luther takes 44 damage! New hp = 107
+Lex_Luther uses kryptonite! Superman takes 32 damage! New hp = 138
+Superman uses Laser! Lex_Luther takes 31 damage! New hp = 76
+Lex_Luther attacks!  Superman takes 59 damage! New hp = 79
+Superman chugs a potion and recovers 35 hp!  New hp = 149
+Lex_Luther attacks!  Superman takes 36 damage! New hp = 113
+Superman chugs a potion and recovers 28 hp!  New hp = 169
+Lex_Luther uses kryptonite! Superman takes 30 damage! New hp = 139
+Superman attacks!  Lex_Luther takes 33 damage! New hp = 43
+Lex_Luther uses kryptonite! Superman takes 33 damage! New hp = 106
+Superman attacks!  Lex_Luther takes 29 damage! New hp = 14
+Lex_Luther chugs a potion and recovers 49 hp!  New hp = 112
+Superman attacks!  Lex_Luther takes 60 damage! New hp = 52
+Lex_Luther chugs a potion and recovers 22 hp!  New hp = 96
+Superman attacks!  Lex_Luther takes 61 damage! New hp = 35
+Lex_Luther uses kryptonite! Superman takes 32 damage! New hp = 74
+Superman uses Laser! Lex_Luther takes 34 damage! New hp = 1
+Lex_Luther attacks!  Superman takes 28 damage! New hp = 46
+Superman attacks!  Superman Wins the Match!
